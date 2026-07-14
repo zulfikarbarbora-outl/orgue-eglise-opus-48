@@ -1,0 +1,811 @@
+{
+  "library": "OrgueEglise",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/OrgueEglise",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/orgue-eglise-opus-48",
+  "branch": "master",
+  "fileCount": 64,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/",
+  "files": [
+    {
+      "file": "OrgueEgliseDoux_As5.opus",
+      "name": "OrgueEgliseDoux_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_As5.opus",
+      "size": 41779,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_C2.opus",
+      "name": "OrgueEgliseDoux_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_C2.opus",
+      "size": 29824,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_C3.opus",
+      "name": "OrgueEgliseDoux_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_C3.opus",
+      "size": 31014,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_C4.opus",
+      "name": "OrgueEgliseDoux_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_C4.opus",
+      "size": 38009,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_C5.opus",
+      "name": "OrgueEgliseDoux_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_C5.opus",
+      "size": 41638,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_C7.opus",
+      "name": "OrgueEgliseDoux_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_C7.opus",
+      "size": 45693,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_Cs6.opus",
+      "name": "OrgueEgliseDoux_Cs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_Cs6.opus",
+      "size": 41720,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_E2.opus",
+      "name": "OrgueEgliseDoux_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_E2.opus",
+      "size": 32191,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_E3.opus",
+      "name": "OrgueEgliseDoux_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_E3.opus",
+      "size": 35600,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_E4.opus",
+      "name": "OrgueEgliseDoux_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_E4.opus",
+      "size": 38625,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_E5.opus",
+      "name": "OrgueEgliseDoux_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_E5.opus",
+      "size": 40340,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_E6.opus",
+      "name": "OrgueEgliseDoux_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_E6.opus",
+      "size": 43779,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_G2.opus",
+      "name": "OrgueEgliseDoux_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_G2.opus",
+      "size": 29518,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_G3.opus",
+      "name": "OrgueEgliseDoux_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_G3.opus",
+      "size": 37163,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_G4.opus",
+      "name": "OrgueEgliseDoux_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_G4.opus",
+      "size": 41243,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_G5.opus",
+      "name": "OrgueEgliseDoux_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_G5.opus",
+      "size": 41193,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseDoux_G6.opus",
+      "name": "OrgueEgliseDoux_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseDoux_G6.opus",
+      "size": 41752,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__C2.opus",
+      "name": "OrgueEgliseFull__C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__C2.opus",
+      "size": 34938,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__C3.opus",
+      "name": "OrgueEgliseFull__C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__C3.opus",
+      "size": 37036,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__C4.opus",
+      "name": "OrgueEgliseFull__C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__C4.opus",
+      "size": 40758,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__C5.opus",
+      "name": "OrgueEgliseFull__C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__C5.opus",
+      "size": 44132,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__C6.opus",
+      "name": "OrgueEgliseFull__C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__C6.opus",
+      "size": 47321,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__C7.opus",
+      "name": "OrgueEgliseFull__C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__C7.opus",
+      "size": 52043,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__E3.opus",
+      "name": "OrgueEgliseFull__E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__E3.opus",
+      "size": 40131,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__E4.opus",
+      "name": "OrgueEgliseFull__E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__E4.opus",
+      "size": 40920,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__E5.opus",
+      "name": "OrgueEgliseFull__E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__E5.opus",
+      "size": 43535,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__E6.opus",
+      "name": "OrgueEgliseFull__E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__E6.opus",
+      "size": 50276,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__G2.opus",
+      "name": "OrgueEgliseFull__G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__G2.opus",
+      "size": 38425,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__G3.opus",
+      "name": "OrgueEgliseFull__G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__G3.opus",
+      "size": 42609,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__G4.opus",
+      "name": "OrgueEgliseFull__G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__G4.opus",
+      "size": 39178,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__G5.opus",
+      "name": "OrgueEgliseFull__G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__G5.opus",
+      "size": 46016,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseFull__G6.opus",
+      "name": "OrgueEgliseFull__G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseFull__G6.opus",
+      "size": 50489,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_C2.opus",
+      "name": "OrgueEgliseReeds_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_C2.opus",
+      "size": 39432,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_C3.opus",
+      "name": "OrgueEgliseReeds_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_C3.opus",
+      "size": 38455,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_C4.opus",
+      "name": "OrgueEgliseReeds_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_C4.opus",
+      "size": 41977,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_C5.opus",
+      "name": "OrgueEgliseReeds_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_C5.opus",
+      "size": 42119,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_C6.opus",
+      "name": "OrgueEgliseReeds_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_C6.opus",
+      "size": 49469,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_C7.opus",
+      "name": "OrgueEgliseReeds_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_C7.opus",
+      "size": 49576,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_E2.opus",
+      "name": "OrgueEgliseReeds_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_E2.opus",
+      "size": 36551,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_E3.opus",
+      "name": "OrgueEgliseReeds_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_E3.opus",
+      "size": 39331,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_E4.opus",
+      "name": "OrgueEgliseReeds_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_E4.opus",
+      "size": 43396,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_E5.opus",
+      "name": "OrgueEgliseReeds_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_E5.opus",
+      "size": 44338,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_E6.opus",
+      "name": "OrgueEgliseReeds_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_E6.opus",
+      "size": 48253,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_G2.opus",
+      "name": "OrgueEgliseReeds_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_G2.opus",
+      "size": 39884,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_G3.opus",
+      "name": "OrgueEgliseReeds_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_G3.opus",
+      "size": 43085,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_G4.opus",
+      "name": "OrgueEgliseReeds_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_G4.opus",
+      "size": 43091,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_G5.opus",
+      "name": "OrgueEgliseReeds_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_G5.opus",
+      "size": 43798,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseReeds_G6.opus",
+      "name": "OrgueEgliseReeds_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseReeds_G6.opus",
+      "size": 50207,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_C2.opus",
+      "name": "OrgueEgliseStrings_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_C2.opus",
+      "size": 31938,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_C3.opus",
+      "name": "OrgueEgliseStrings_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_C3.opus",
+      "size": 31598,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_C4.opus",
+      "name": "OrgueEgliseStrings_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_C4.opus",
+      "size": 36116,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_C5.opus",
+      "name": "OrgueEgliseStrings_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_C5.opus",
+      "size": 35534,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_C6.opus",
+      "name": "OrgueEgliseStrings_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_C6.opus",
+      "size": 45144,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_C7.opus",
+      "name": "OrgueEgliseStrings_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_C7.opus",
+      "size": 44278,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_E2.opus",
+      "name": "OrgueEgliseStrings_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_E2.opus",
+      "size": 31599,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_E3.opus",
+      "name": "OrgueEgliseStrings_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_E3.opus",
+      "size": 34396,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_E4.opus",
+      "name": "OrgueEgliseStrings_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_E4.opus",
+      "size": 32614,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_E5.opus",
+      "name": "OrgueEgliseStrings_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_E5.opus",
+      "size": 37041,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_E6.opus",
+      "name": "OrgueEgliseStrings_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_E6.opus",
+      "size": 43040,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_G2.opus",
+      "name": "OrgueEgliseStrings_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_G2.opus",
+      "size": 28854,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_G3.opus",
+      "name": "OrgueEgliseStrings_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_G3.opus",
+      "size": 31096,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_G4.opus",
+      "name": "OrgueEgliseStrings_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_G4.opus",
+      "size": 36107,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_G5.opus",
+      "name": "OrgueEgliseStrings_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_G5.opus",
+      "size": 39702,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OrgueEgliseStrings_G6.opus",
+      "name": "OrgueEgliseStrings_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/orgue-eglise-opus-48/master/OrgueEgliseStrings_G6.opus",
+      "size": 44289,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "OrgueEgliseDoux_C2.opus",
+      "OrgueEgliseFull__C2.opus",
+      "OrgueEgliseReeds_C2.opus",
+      "OrgueEgliseStrings_C2.opus"
+    ],
+    "40": [
+      "OrgueEgliseDoux_E2.opus",
+      "OrgueEgliseReeds_E2.opus",
+      "OrgueEgliseStrings_E2.opus"
+    ],
+    "43": [
+      "OrgueEgliseDoux_G2.opus",
+      "OrgueEgliseFull__G2.opus",
+      "OrgueEgliseReeds_G2.opus",
+      "OrgueEgliseStrings_G2.opus"
+    ],
+    "48": [
+      "OrgueEgliseDoux_C3.opus",
+      "OrgueEgliseFull__C3.opus",
+      "OrgueEgliseReeds_C3.opus",
+      "OrgueEgliseStrings_C3.opus"
+    ],
+    "52": [
+      "OrgueEgliseDoux_E3.opus",
+      "OrgueEgliseFull__E3.opus",
+      "OrgueEgliseReeds_E3.opus",
+      "OrgueEgliseStrings_E3.opus"
+    ],
+    "55": [
+      "OrgueEgliseDoux_G3.opus",
+      "OrgueEgliseFull__G3.opus",
+      "OrgueEgliseReeds_G3.opus",
+      "OrgueEgliseStrings_G3.opus"
+    ],
+    "60": [
+      "OrgueEgliseDoux_C4.opus",
+      "OrgueEgliseFull__C4.opus",
+      "OrgueEgliseReeds_C4.opus",
+      "OrgueEgliseStrings_C4.opus"
+    ],
+    "64": [
+      "OrgueEgliseDoux_E4.opus",
+      "OrgueEgliseFull__E4.opus",
+      "OrgueEgliseReeds_E4.opus",
+      "OrgueEgliseStrings_E4.opus"
+    ],
+    "67": [
+      "OrgueEgliseDoux_G4.opus",
+      "OrgueEgliseFull__G4.opus",
+      "OrgueEgliseReeds_G4.opus",
+      "OrgueEgliseStrings_G4.opus"
+    ],
+    "72": [
+      "OrgueEgliseDoux_C5.opus",
+      "OrgueEgliseFull__C5.opus",
+      "OrgueEgliseReeds_C5.opus",
+      "OrgueEgliseStrings_C5.opus"
+    ],
+    "76": [
+      "OrgueEgliseDoux_E5.opus",
+      "OrgueEgliseFull__E5.opus",
+      "OrgueEgliseReeds_E5.opus",
+      "OrgueEgliseStrings_E5.opus"
+    ],
+    "79": [
+      "OrgueEgliseDoux_G5.opus",
+      "OrgueEgliseFull__G5.opus",
+      "OrgueEgliseReeds_G5.opus",
+      "OrgueEgliseStrings_G5.opus"
+    ],
+    "84": [
+      "OrgueEgliseFull__C6.opus",
+      "OrgueEgliseReeds_C6.opus",
+      "OrgueEgliseStrings_C6.opus"
+    ],
+    "88": [
+      "OrgueEgliseDoux_E6.opus",
+      "OrgueEgliseFull__E6.opus",
+      "OrgueEgliseReeds_E6.opus",
+      "OrgueEgliseStrings_E6.opus"
+    ],
+    "91": [
+      "OrgueEgliseDoux_G6.opus",
+      "OrgueEgliseFull__G6.opus",
+      "OrgueEgliseReeds_G6.opus",
+      "OrgueEgliseStrings_G6.opus"
+    ],
+    "96": [
+      "OrgueEgliseDoux_C7.opus",
+      "OrgueEgliseFull__C7.opus",
+      "OrgueEgliseReeds_C7.opus",
+      "OrgueEgliseStrings_C7.opus"
+    ]
+  }
+}
